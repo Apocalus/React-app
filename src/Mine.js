@@ -1,6 +1,6 @@
 import React from 'react';
 import './Mine.css';
-import App from './App';
+import './App';
 
 
 function Mine({name}) {
