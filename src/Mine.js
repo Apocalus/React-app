@@ -24,9 +24,6 @@ function Mine({name}) {
     </div>
     <p id = "for_p">Random picture:</p>
     <img src = "https://i.imgur.com/TsKDdxC.jpg" alt = "children listening during civil war"></img>
-    <p id = "for_p">Random video:</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6ptI5B4a-ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
-    gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p id = "for_p">Random Survey:</p>
     <footer id = "form">
     <form>
